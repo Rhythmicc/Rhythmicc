@@ -6,3 +6,5 @@ This is [Rhythmicc](https://rhythmlian.cn/), former ACMer, currently working in 
   <img src="https://github-readme-stats.vercel.app/api?username=Rhythmicc&show_icons=true&include_all_commits=true&theme=solarized-dark" width="52%" align="left"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rhythmicc&layout=compact&theme=solarized-dark&count_private=true" width="42%" align="right"/>
 </div>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rhythmicc&theme=radical&hide_border=true)](https://git.io/streak-stats)
